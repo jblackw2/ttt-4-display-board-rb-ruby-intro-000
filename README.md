@@ -142,9 +142,9 @@ Make sure to be interpolating data from the `board` array within your `display_b
 
 ## Objectives
 
-1. Define a method that accepts an argument.
-2. Use the argument within the method.
-3. Read data from an array.
+1. De
+3. Read data from an afine a method that accepts an argument.
+2. Use the argument within the method.rray.
 4. Print out a multi-line dynamic string using Interpolation
 
 ## Instructions
